@@ -1,0 +1,6 @@
+{
+  "name": "Slide15 · 4x4 Sliding Puzzle",
+  "description": "Tactile 4x4 sliding puzzle game with fluid touch gesture controls, smooth physics, solvability guarantee, and timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
